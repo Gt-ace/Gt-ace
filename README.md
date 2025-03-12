@@ -1,5 +1,5 @@
-### Arthur Van Petegem
-#### 🎓 Computer Science Student at University of St. Gallen
+## Arthur Van Petegem
+### 🎓 Computer Science Student at University of St. Gallen
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-van-petegem-7b72b1323/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arthurvanpetegem@outlook.com) 
 
