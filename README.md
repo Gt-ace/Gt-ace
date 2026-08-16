@@ -1,17 +1,109 @@
-# 💫 About Me:
-Arthur Van Petegem<br>🎓 Computer Science Student at University of St. Gallen<br>💻 Tech & Innovation Team Member at START Global<br>🛠️ Freelance Software Engineer
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-van-petegem-7b72b1323/) [![Website](https://img.shields.io/badge/Website-avp.software-4285F4?logo=googlechrome&logoColor=white)](https://avp.software) [![Email](https://img.shields.io/badge/Email-hello@avp.software-D14836?logo=gmail&logoColor=white)](mailto:hello@avp.software)
+<div align="center">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gt-ace&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Gt-ace&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gt-ace&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/avp-mark-dark.svg">
+  <img src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/avp-mark-light.svg" alt="AVP" height="72">
+</picture>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gt-ace&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1>Arthur Van Petegem</h1>
+
+<p><b>Software engineer.</b> I build small, self-owned products end to end.</p>
+
+<p>St. Gallen &nbsp;·&nbsp; Baden, Aargau &nbsp;·&nbsp; Switzerland</p>
+
+<p>
+  <a href="https://avp.software"><img alt="Portfolio" src="https://img.shields.io/badge/avp.software-24292F?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=24292F"></a>
+  <a href="https://www.linkedin.com/in/arthur-van-petegem-7b72b1323/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6bTEuNzggMTMuMDJIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4K&labelColor=24292F"></a>
+  <a href="mailto:hello@avp.software"><img alt="Email" src="https://img.shields.io/badge/hello@avp.software-24292F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24292F"></a>
+</p>
+
+</div>
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="240">
+  <a href="https://www.unisg.ch">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/hsg-dark.svg">
+      <img src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/hsg-light.svg" alt="University of St. Gallen" height="48">
+    </picture>
+  </a>
+  <br><br>
+  <b>University of St. Gallen</b><br>
+  <sub>Computer Science</sub>
+</td>
+<td align="center" width="260">
+  <a href="https://www.startglobal.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/start-dark.svg">
+      <img src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/start-light.svg" alt="START Global" height="64">
+    </picture>
+  </a>
+  <br><br>
+  <b>START Global</b><br>
+  <sub>Tech &amp; Innovation</sub>
+</td>
+<td align="center" width="240">
+  <a href="https://avp.software">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/avp-mark-dark.svg">
+      <img src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/avp-mark-light.svg" alt="AVP Software" height="48">
+    </picture>
+  </a>
+  <br><br>
+  <b>AVP Software</b><br>
+  <sub>Freelance Engineering</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## What I am building
+
+**[Volunteer Platform](https://volunteer.startglobal.org)** &nbsp;·&nbsp; Coordinates 600+ volunteers for START Summit x Hack. Registration, role and shift assignment, team management, and event-day check-in, built mobile-first for the 95% who are on phones. Next.js, Supabase, Cloudflare Containers.
+
+**[Amber](https://github.com/Gt-ace/Amber)** &nbsp;·&nbsp; Self-hostable personal canvas. Link-in-bio, small site, notebook, blog. Content is markdown on disk, no database lock-in, AGPL-3.0.
+
+**Crux** &nbsp;·&nbsp; Product comparison engine at [crux.avp.software](https://crux.avp.software). Resolve, fetch, normalize, compare.
+
+**[avp.software](https://avp.software)** &nbsp;·&nbsp; My portfolio. Astro with React islands, static output, nginx in a container on a Hetzner box.
+
+---
+
+## Toolkit
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjava%2Cpy%2Csvelte%2Creact%2Cnextjs%2Castro%2Ctailwindcss%2Cthreejs%2Csupabase%2Ccloudflare%2Cdocker%2Cnginx%2Csqlite%2Csentry%2Cvitest&theme=dark&perline=8">
+  <img src="https://skillicons.dev/icons?i=ts%2Cjava%2Cpy%2Csvelte%2Creact%2Cnextjs%2Castro%2Ctailwindcss%2Cthreejs%2Csupabase%2Ccloudflare%2Cdocker%2Cnginx%2Csqlite%2Csentry%2Cvitest&theme=light&perline=8" alt="TypeScript, Java, Python, Svelte, React, Next.js, Astro, Tailwind CSS, Three.js, Supabase, Cloudflare, Docker, nginx, SQLite, Sentry, Vitest">
+</picture>
+
+</div>
+
+---
+
+## Consistency
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Gt-ace&hide_border=true&border_radius=8&background=0D1117&stroke=30363D&ring=F7F8FA&fire=F7F8FA&currStreakNum=F7F8FA&sideNums=F7F8FA&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681">
+  <img src="https://streak-stats.demolab.com?user=Gt-ace&hide_border=true&border_radius=8&background=FFFFFF&stroke=D0D7DE&ring=121214&fire=121214&currStreakNum=121214&sideNums=121214&currStreakLabel=57606A&sideLabels=57606A&dates=8C959F" alt="Total contributions, current streak and longest streak">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/activity-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/activity-light.svg" alt="Contributions by month over the last twelve months">
+</picture>
+
+</div>
