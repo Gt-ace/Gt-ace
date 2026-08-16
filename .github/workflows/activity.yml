@@ -1,0 +1,44 @@
+name: Refresh activity chart
+
+on:
+  schedule:
+    # 03:17 UTC daily. Off the hour so it is not queued with everyone else's.
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build-activity.mjs
+      - .github/workflows/activity.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-chart
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build charts
+        run: node scripts/build-activity.mjs
+
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain assets)" ]; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "Refresh activity chart"
+          git push

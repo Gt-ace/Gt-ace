@@ -102,8 +102,8 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Gt-ace&custom_title=Contribution%20activity&bg_color=0D1117&color=F7F8FA&title_color=F7F8FA&line=F7F8FA&point=FFFFFF&area=true&area_color=F7F8FA&hide_border=true&radius=8&days=45&height=340">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gt-ace&custom_title=Contribution%20activity&bg_color=FFFFFF&color=121214&title_color=121214&line=121214&point=000000&area=true&area_color=121214&hide_border=true&radius=8&days=45&height=340" alt="Contribution activity over the last 45 days">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/activity-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/activity-light.svg" alt="Contributions by month over the last twelve months">
 </picture>
 
 </div>
