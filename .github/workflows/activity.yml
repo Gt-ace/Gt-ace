@@ -1,4 +1,4 @@
-name: Refresh activity chart
+name: Refresh activity and streak cards
 
 on:
   schedule:
@@ -9,6 +9,7 @@ on:
     branches: [main]
     paths:
       - scripts/build-activity.mjs
+      - scripts/build-streak.mjs
       - .github/workflows/activity.yml
 
 permissions:
@@ -29,7 +30,9 @@ jobs:
           node-version: 22
 
       - name: Build charts
-        run: node scripts/build-activity.mjs
+        run: |
+          node scripts/build-activity.mjs
+          node scripts/build-streak.mjs
 
       - name: Commit if changed
         run: |
@@ -40,5 +43,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets
-          git commit -m "Refresh activity chart"
+          git commit -m "Refresh activity and streak cards"
           git push

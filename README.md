@@ -17,6 +17,8 @@
   <a href="mailto:hello@avp.software"><img alt="Email" src="https://img.shields.io/badge/hello@avp.software-24292F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24292F"></a>
 </p>
 
+<sub><a href="https://gravatar.com/steadyreally1d3bcc5189">gravatar</a></sub>
+
 </div>
 
 ---
@@ -25,36 +27,41 @@
 
 <table>
 <tr>
-<td align="center" width="240">
+<td align="center" width="240" height="88" valign="bottom">
   <a href="https://www.unisg.ch">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/hsg-dark.svg">
       <img src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/hsg-light.svg" alt="University of St. Gallen" height="48">
     </picture>
   </a>
-  <br><br>
-  <b>University of St. Gallen</b><br>
-  <sub>Computer Science</sub>
 </td>
-<td align="center" width="260">
+<td align="center" width="260" height="88" valign="bottom">
   <a href="https://www.startglobal.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/start-dark.svg">
       <img src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/start-light.svg" alt="START Global" height="64">
     </picture>
   </a>
-  <br><br>
-  <b>START Global</b><br>
-  <sub>Tech &amp; Innovation</sub>
 </td>
-<td align="center" width="240">
+<td align="center" width="240" height="88" valign="bottom">
   <a href="https://avp.software">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/avp-mark-dark.svg">
       <img src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/avp-mark-light.svg" alt="AVP Software" height="48">
     </picture>
   </a>
-  <br><br>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+  <b>University of St. Gallen</b><br>
+  <sub>Computer Science</sub>
+</td>
+<td align="center" valign="top">
+  <b>START Global</b><br>
+  <sub>Tech &amp; Innovation</sub>
+</td>
+<td align="center" valign="top">
   <b>AVP Software</b><br>
   <sub>Freelance Engineering</sub>
 </td>
@@ -95,8 +102,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Gt-ace&hide_border=true&border_radius=8&background=0D1117&stroke=30363D&ring=F7F8FA&fire=F7F8FA&currStreakNum=F7F8FA&sideNums=F7F8FA&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681">
-  <img src="https://streak-stats.demolab.com?user=Gt-ace&hide_border=true&border_radius=8&background=FFFFFF&stroke=D0D7DE&ring=121214&fire=121214&currStreakNum=121214&sideNums=121214&currStreakLabel=57606A&sideLabels=57606A&dates=8C959F" alt="Total contributions, current streak and longest streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/streak-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/streak-light.svg" alt="Total contributions, current streak and longest streak">
 </picture>
 
 <br><br>
