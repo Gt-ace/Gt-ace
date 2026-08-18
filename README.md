@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td align="center" width="240" height="88" valign="bottom">
+<td align="center" width="240" height="64" valign="middle">
   <a href="https://www.unisg.ch">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/hsg-dark.svg">
@@ -35,15 +35,15 @@
     </picture>
   </a>
 </td>
-<td align="center" width="260" height="88" valign="bottom">
+<td align="center" width="260" height="64" valign="middle">
   <a href="https://www.startglobal.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/start-dark.svg">
-      <img src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/start-light.svg" alt="START Global" height="64">
+      <img src="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/start-light.svg" alt="START Global" height="56">
     </picture>
   </a>
 </td>
-<td align="center" width="240" height="88" valign="bottom">
+<td align="center" width="240" height="64" valign="middle">
   <a href="https://avp.software">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gt-ace/Gt-ace/main/assets/avp-mark-dark.svg">
